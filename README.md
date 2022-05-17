@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lutfialdrii&label=Profile%20views&color=0e75b6&style=flat" alt="lutfialdrii" /> </p>
 
 
- <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Kalau+Ga+Belajar+Ya+Tidur;Robot+Dikasih+Ruh&center=true&width=500&height=50"></a>
+ <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Robot+Dikasih+Ruh;Kalau+Ga+Belajar+Ya+Tidur&center=true&width=500&height=50"></a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
