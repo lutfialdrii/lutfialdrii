@@ -22,14 +22,6 @@
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages & Tools
 
-<p align="left"> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="" width="40" height="40"/> </a>
-</p>
 
 ##
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
