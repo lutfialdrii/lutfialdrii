@@ -33,16 +33,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lutfialdrii&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lutfialdrii&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhadeepZilong" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  
-   <a href="https://github.com/lutfialdrii"><img alt="SubhadeepZilong's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lutfialdrii&custom_title=lutfialdrii's%20Contribution%20Graph&theme=react-dark" /></a>
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -53,4 +43,4 @@
 -----
 Credits: [lutfialdrii](https://github.com/lutfialdrii)
 
-Last Edited on: 21/10/2022
+Last Edited on: 29/04/2024
